@@ -1,6 +1,5 @@
 # PYTHON_PROJECT
 BOOK RECOMMENDATION SYSTEM
-Book Recommendation System with Python and Tkinter
 ~ Overview
 This is a Python-based Book Recommendation System built as a college project. The system combines web scraping techniques, data manipulation, and a user-friendly graphical user interface (GUI) created using the Tkinter library. It allows users to input their username and the name of an author, and it provides them with a list of books by that author based on a pre-loaded CSV dataset.
 
